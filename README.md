@@ -3,7 +3,7 @@
 
 ## ¿Qué hay por aquí?
 
-* [ ] [1.- ¿Qué es esto?](#qué-es-esto)
+* [ ] [1.- ¿Qué es UN VISTAZO VIRTUAL AL CÓDICE DE CUAXICALA?](#qué-es-un-vistazo-virtual-al-códice-de-cuaxicala)
 * [ ] [2.- ¿Qué es el códice de Cuaxicala?](#qué-es-el-códice-de-cuaxicala)
 * [ ] [3.- Instrucciones de instalación ](#instrucciones-de-instalación)
 * [ ] [4.- Descarga la app](#descarga-la-app)
@@ -14,7 +14,7 @@
 
 
 
-## ¿Qué es esto?
+## ¿Qué es UN VISTAZO VIRTUAL AL CÓDICE DE CUAXICALA?
 
 
 ## ¿Qué es el códice de Cuaxicala?
