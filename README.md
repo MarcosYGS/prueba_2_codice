@@ -9,7 +9,7 @@
 * [ ] [4.- Descarga la app](#descarga-la-app)
 * [ ] [6.- Conoce más](#conoce-más)
 * [ ] [5.- Autores](#autores)
-* [ ] [7.- Licencia ](https://github.com/MarcosYGS/prueba_2_codice/blob/main/LICENSE)
+* [ ] [7.- Licencia ](#licencia)
 
 
 
@@ -59,3 +59,5 @@ Las ultimas interpretaciones realizadas, tomaron en gran medida los rasgos cultu
 
 
 ## Licencia 
+
+Consulta la licencia de uso aqui: [Soy la licencia](https://github.com/MarcosYGS/prueba_2_codice/blob/main/LICENSE)
