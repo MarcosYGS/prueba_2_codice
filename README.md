@@ -51,6 +51,7 @@ Las ultimas interpretaciones realizadas, tomaron en gran medida los rasgos cultu
 
 ## Descarga la app
 
+Descarga la app desde aqui: [soy el link de descarga](https://drive.google.com/file/d/1Zc6wAIXpVjC__SaZIRB6VG_dgeXr4VMc/view?usp=sharing)
 
 ## Conoce más
 
