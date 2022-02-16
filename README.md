@@ -6,10 +6,11 @@
 * [ ] [1.- ¿Qué es UN VISTAZO VIRTUAL AL CÓDICE DE CUAXICALA?](#qué-es-un-vistazo-virtual-al-códice-de-cuaxicala)
 * [ ] [2.- ¿Qué es el códice de Cuaxicala?](#qué-es-el-códice-de-cuaxicala)
 * [ ] [3.- Instrucciones de instalación ](#instrucciones-de-instalación)
-* [ ] [4.- Descarga la app](#descarga-la-app)
+* [ ] [4.- Especificaciones generales](#especificaciones-generales)
+* [ ] [5.- Descarga la app](#descarga-la-app)
 * [ ] [6.- Conoce más](#conoce-más)
-* [ ] [5.- Autores](#autores)
-* [ ] [7.- Licencia ](#licencia)
+* [ ] [7.- Autores](#autores)
+* [ ] [8.- Licencia ](#licencia)
 
 
 
@@ -47,10 +48,17 @@ Las ultimas interpretaciones realizadas, tomaron en gran medida los rasgos cultu
 ![celebracion de nombramiento](https://github.com/MarcosYGS/prueba_2_codice/blob/main/assets/celebracion.png)
 
 
-
-
-
 ## Instrucciones de instalación
+
+
+## Especificaciones generales
+
+- Dispositivos Android 
+- Versión soportada de la 4.4 a la versión 11.0
+- Lentes de Realidad Virtual (VR) de tipo Cardboard 
+- Almacenamiento: 2.2 Gb
+- RAM: 2 Gb
+
 
 
 ## Descarga la app
