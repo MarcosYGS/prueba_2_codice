@@ -56,7 +56,7 @@ Las ultimas interpretaciones realizadas, tomaron en gran medida los rasgos cultu
 - Dispositivos Android 
 - Versión soportada de la 4.4 a la versión 11.0
 - Lentes de Realidad Virtual (VR) de tipo Cardboard 
-- Almacenamiento: 2.2 Gb
+- Almacenamiento: 1.2 Gb
 - RAM: 2 Gb
 
 
