@@ -68,6 +68,18 @@ Descarga la app desde aqui: [soy el link de descarga](https://drive.google.com/f
 ## Conoce más
 
 
+### Para conocer más sobre el códice de cuaxicala te recomendamos que veas:
+
+-	El libro de Guy Stresser-Pean titulado “El códice de Xicotepec, estudio e interpretación” editado por el gobierno del estado de puebla, que poder ver: [Aqui]( https://www.huastecamexico.com/data/ediciones/codice_de_xicotepec.pdf )
+
+- El artículo del historiador Jerome A. Offner, titulado Un segundo vistazo al Códice de Xicotepec de editorial ITINERARIOS que puedes consultar aquí: [ve el articulo](https://bazhum.muzhp.pl/media/files/Itinerarios_Revista_de_estudios_ling_sticos_literarios_historicos_y_antropologicos/Itinerarios_Revista_de_estudios_ling_sticos_literarios_historicos_y_antropologicos-r2010-t-n11/Itinerarios_Revista_de_estudios_ling_sticos_literarios_historicos_y_antropologicos-r2010-t-n11-s55-83/Itinerarios_Revista_de_estudios_ling_sticos_literarios_historicos_y_antropologicos-r2010-t-n11-s55-83.pdf)
+
+-	El artículo del periódico digital lado b con la nota de Leticia Ánimas titulada El Códice de Cuaxicala es reconocido por UNESCO como "Memoria del Mundo" que puedes ver aquí: [Ver la nota]( https://www.ladobe.com.mx/2018/02/codice-cuaxicala-reconocido-unesco-memoria-del-mundo/#:~:text=El%20C%C3%B3dice%20de%20Cuaxicala%20es,UNESCO%20como%20%E2%80%9CMemoria%20del%20Mundo%E2%80%9D )
+
+-	Un artículo del libro “transformando america latina en la era digital” de la editorial fundación lasirc que se puede buscar aqui: [ver artículo (pagina 441](http://fundacionlasirc.org/images/cap_libro/RED_LASIRC_LIBRO_7.pdf )
+
+
+
 ## Autores
 
 
