@@ -78,6 +78,11 @@ Descarga la app desde aqui: [soy el link de descarga](https://drive.google.com/f
 
 -	Un artículo del libro “transformando america latina en la era digital” de la editorial fundación lasirc que se puede buscar aqui: [ver artículo (pagina 441](http://fundacionlasirc.org/images/cap_libro/RED_LASIRC_LIBRO_7.pdf )
 
+### Sobre las herramientas usadas: 
+
+-	Para la interfaz gráfica y la generación del archivo de aplicación se usó el motor de físicas Unity, su documentación esta [aquí](https://docs.unity3d.com/Manual/index.html) 
+
+-	Sobre la característica para la experiencia en realidad virtual se usó el framework de Google para Cardboard, del cual puedes saber más [aquí]( https://developers.google.com/cardboard/develop/unity/quickstart )
 
 
 ## Autores
