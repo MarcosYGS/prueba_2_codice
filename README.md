@@ -90,4 +90,4 @@ Descarga la app desde aqui: [soy el link de descarga](https://drive.google.com/f
 
 ## Licencia 
 
-Consulta la licencia de uso aqui: [Soy la licencia](https://github.com/MarcosYGS/prueba_2_codice/blob/main/LICENSE)
+Este proyecto está bajo la licencia, consulta la licencia de uso aqui: [Soy la licencia](https://github.com/MarcosYGS/prueba_2_codice/blob/main/LICENSE)
