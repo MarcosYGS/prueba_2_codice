@@ -89,7 +89,7 @@ Descarga la app desde aqui: [soy el link de descarga](https://drive.google.com/f
 los involucredos en este proyecto son: 
 
 * Dorian Rojas Balbuena es Profesor Investigador del área de Ingeniería Mecatrónica en el Instituto Tecnológico Superior de Huauchinango, Puebla, México.
-* Marcos Yehosua Gutiérrez Soto es alumno de Ingeniería Mecatrónica en el Instituto Tecnológico Superior de Huauchinango, Puebla, México 
+* [Marcos Yehosua Gutiérrez Soto](https://github.com/MarcosYGS) es alumno de Ingeniería Mecatrónica en el Instituto Tecnológico Superior de Huauchinango, Puebla, México 
 * Jessica Gutiérrez Cruz es alumna de Ingeniería Mecatrónica en el Instituto Tecnológico Superior de Huauchinango, Puebla, México. 
 * Perla Palacios Herrera es alumna de Ingeniería Mecatrónica en el Instituto Tecnológico Superior de Huauchinango, Puebla.
 * Andrea Rosalino Garrido es alumna de Ingeniería Mecatrónica en el Instituto Tecnológico Superior de Huauchinango, Puebla, México.
